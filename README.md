@@ -9,6 +9,14 @@ An **NLP-based cyberbullying detection system** that achieves **82.4% accuracy**
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://cyberbullying-analyzer.streamlit.app/
+
+Experience the cyberbullying analyzer in action! No installation required.
+
+---
+
 ## 🌟 Features
 
 - **Real-time Text Analysis** - Instantly classify text messages, tweets, and comments
@@ -29,14 +37,6 @@ An **NLP-based cyberbullying detection system** that achieves **82.4% accuracy**
 | **Gender** | Gender-based harassment or sexism | ⚧️ |
 | **Other Cyberbullying** | General harassment or bullying | ⚠️ |
 | **Not Cyberbullying** | Safe, non-harmful content | ✅ |
-
----
-
-## 🚀 Live Demo
-
-🔗 **[Try the App](YOUR_STREAMLIT_LINK_HERE)** *(Add your Streamlit Cloud link here)*
-
-Experience the cyberbullying analyzer in action! No installation required.
 
 ---
 
@@ -78,14 +78,14 @@ Experience the cyberbullying analyzer in action! No installation required.
 ```
 cyberbullying-analyzer/
 │
-├── assets/                          # Screenshots and media
+├── images/                          # Screenshots and media
 │   ├── preview1.png
 │   ├── preview2.png
 │   ├── preview3.png
 │   └── preview4.png
 │
-├── app.py                           # Streamlit web application
-├── preprocess.py                    # Text preprocessing utilities
+├── app.py                          # Streamlit web application
+├── preprocess.py                   # Text preprocessing utilities
 ├── cyberbullying_analyzer.ipynb    # Jupyter notebook (full analysis)
 ├── cyberbullying_tweets.csv        # Training dataset (47K+ tweets)
 │
@@ -174,16 +174,16 @@ print(f"Category: {category}")
 ## 📸 Screenshots
 
 ### Main Interface
-![App Preview 1](assets/preview1.png)
+![App Preview 1](images/preview1.png)
 
 ### Analysis Results
-![App Preview 2](assets/preview2.png)
+![App Preview 2](images/preview2.png)
 
 ### Educational Content
-![App Preview 3](assets/preview3.png)
+![App Preview 3](images/preview3.png)
 
 ### Model Performance
-![App Preview 4](assets/preview4.png)
+![App Preview 4](images/preview4.png)
 
 ---
 
