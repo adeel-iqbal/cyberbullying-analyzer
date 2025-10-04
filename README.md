@@ -174,16 +174,16 @@ print(f"Category: {category}")
 ## 📸 Screenshots
 
 ### Main Interface
-![App Preview 1](images/preview1.png)
+![App Preview 1](assets/preview1.png)
 
 ### Analysis Results
-![App Preview 2](images/preview2.png)
+![App Preview 2](assets/preview2.png)
 
 ### Educational Content
-![App Preview 3](images/preview3.png)
+![App Preview 3](assets/preview3.png)
 
 ### Model Performance
-![App Preview 4](images/preview4.png)
+![App Preview 4](assets/preview4.png)
 
 ---
 
